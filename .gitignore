@@ -1,0 +1,7 @@
+out/
+.idea/libaries/
+.idea/modules/
+.gradle/
+gradle/
+modules/
+out/
