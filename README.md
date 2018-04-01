@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/buraktaban22/Kotlin-Neural-Network.svg?branch=master)](https://travis-ci.org/buraktaban22/Kotlin-Neural-Network)
+[![Dependency Status](https://www.versioneye.com/user/projects/5ac0895a0fb24f0ac49c39be/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5ac0895a0fb24f0ac49c39be)
+[![license](https://img.shields.io/github/license/buraktaban22/Kotlin-Neural-Network.svg)](https://github.com/buraktaban22/Kotlin-Neural-Network/blob/v0.1-beta/LICENSE)
 
 # Kotlin Neural Network Library  
 
@@ -5,30 +8,18 @@ Neural Network Kotlin Library for JVM and Android
   
 ### Samples  
   
-Here are samples on console and Android  
+Here are samples on console and Android (Coming Soon..)
   
-* [XOR Problem](https://github.com)  
-* [Doodle Classifier](https://github.com)  
+* [XOR Problem](https://github.com/buraktaban22/Kotlin-Neural-Network/)  
+* [Doodle Classifier](https://github.com/buraktaban22/Kotlin-Neural-Network/)  
   
 ### Installation  
   
 ​Just download the package from [here]() and add it to your project classpath, or just use the maven repo:  
   
+Dependencies are coming soon.
 Gradle:  
-```gradle  
-dependencies {  
- implementation 'com.morhpt.neuralnetwork:neural-network:0.1'}  
-```  
-  
-Maven:  
-```xml  
-<dependency>  
-	 <groupId>com.morhpt.nn:</groupId> 
-	 <artifactId>neural-network</artifactId> 
-	 <version>0.2.0</version> 
-	 <type>jar</type>
-</dependency>  
-```  
+
   
 ### Usage  
   
@@ -108,4 +99,4 @@ NeuralNetwork.Companion.matrix(cols, rows); // Java
 
 ## Licensing
 
-This project is open-source via the  [MIT License](http://github.com).
+This project is open-source via the  [MIT License](https://github.com/buraktaban22/Kotlin-Neural-Network/blob/v0.1-beta/LICENSE).

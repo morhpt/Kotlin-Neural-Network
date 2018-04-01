@@ -1,7 +1,7 @@
 buildscript {
     ext.your_name = 'Burak Taban'
     ext.your_email = 'burak.taban.22@gmail.com'
-    ext.your_github_name = 'buraktaban22'
+    ext.your_github_name = 'morhpt'
 
     ext.project_name = 'Kotlin-Neural-Network'
     ext.project_description = 'Neural Network Library for Kotlin'
