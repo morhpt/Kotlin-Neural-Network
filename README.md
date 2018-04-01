@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/buraktaban22/Kotlin-Neural-Network.svg?branch=master)](https://travis-ci.org/buraktaban22/Kotlin-Neural-Network)
+[![Build Status](https://travis-ci.org/morhpt/Kotlin-Neural-Network.svg?branch=master)](https://travis-ci.org/buraktaban22/Kotlin-Neural-Network)
 [![Dependency Status](https://www.versioneye.com/user/projects/5ac0895a0fb24f0ac49c39be/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5ac0895a0fb24f0ac49c39be)
 [![license](https://img.shields.io/github/license/buraktaban22/Kotlin-Neural-Network.svg)](https://github.com/buraktaban22/Kotlin-Neural-Network/blob/v0.1-beta/LICENSE)
 
@@ -18,7 +18,7 @@ Here are samples on console and Android (Coming Soon..)
 ​Just download the package from [here]() and add it to your project classpath, or just use the maven repo:  
   
 Dependencies are coming soon.
-Gradle:  
+
 
   
 ### Usage  
