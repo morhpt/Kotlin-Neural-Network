@@ -15,9 +15,22 @@ Here are samples on console and Android (Coming Soon..)
   
 ### Installation  
   
-​Just download the package from [here]() and add it to your project classpath, or just use the maven repo:  
+​Just download the package from [here](https://github.com/morhpt/Kotlin-Neural-Network/releases) and add it to your project classpath, or just use the maven repo:  
   
-Dependencies are coming soon.
+Maven:
+```xml
+<dependency>
+  <groupId>com.morhpt.nn</groupId>
+  <artifactId>neuralnetwork</artifactId>
+  <version>0.1.0</version>
+  <type>pom</type>
+</dependency>
+```
+
+Gradle:
+```gradle
+implementation 'com.morhpt.nn:neuralnetwork:0.1.0'
+```
 
 
   
