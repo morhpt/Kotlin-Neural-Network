@@ -22,14 +22,14 @@ Maven:
 <dependency>
   <groupId>com.morhpt.nn</groupId>
   <artifactId>neuralnetwork</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.2</version>
   <type>pom</type>
 </dependency>
 ```
 
 Gradle:
 ```gradle
-implementation 'com.morhpt.nn:neuralnetwork:0.1.0'
+implementation 'com.morhpt.nn:neuralnetwork:0.1.2'
 ```
 
 

@@ -124,7 +124,7 @@ class Matrix(val rows: Int, val cols: Int) {
             if (a == null || b == null)
                 throw NullPointerException("Matrix cannot be null")
 
-            if (a.cols != b.rows)
+            if (a.rows != b.rows || a.cols != b.cols)
                 throw Exception("Columns of A must match rows of B.")
 
             return map(a) { _, i, j -> a.data[i][j] - b.data[i][j] }

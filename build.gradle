@@ -7,7 +7,7 @@ buildscript {
     ext.project_description = 'Neural Network Library for Kotlin'
     ext.project_group = 'com.morhpt.nn'
     ext.project_artifact = 'neuralnetwork'
-    ext.project_version = '0.1.0'
+    ext.project_version = '0.1.2'
     ext.project_license = 'The MIT License'
     ext.project_license_tag = 'MIT'
     ext.project_license_url = 'https://opensource.org/licenses/MIT'
@@ -26,9 +26,7 @@ buildscript {
     }
 }
 
-plugins {
-    id "com.jfrog.bintray" version "1.7.3"
-}
+apply plugin: 'com.jfrog.bintray'
 
 group project_group
 version project_version
